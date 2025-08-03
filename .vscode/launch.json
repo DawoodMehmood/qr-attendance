@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Attach to Expo",
+        "request": "launch",
+        "type": "reactnative",
+        "platform": "android",
+        "cwd": "${workspaceFolder}",
+        "sourceMaps": true,
+        "outDir": "${workspaceFolder}/.vscode/.react"
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+    // Format with Prettier on save
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+  
+    // Use ESLint to fix on save
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+  
+    // React Native IntelliSense tweaks
+    "javascript.validate.enable": false,
+    "typescript.validate.enable": false,
+  
+    // Show trailing whitespace, tabs vs spaces, etc.
+    "editor.renderWhitespace": "all",
+    "files.eol": "\n"
+  }
+  
